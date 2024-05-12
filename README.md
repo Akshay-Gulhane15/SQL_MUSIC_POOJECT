@@ -12,12 +12,19 @@ Dataset:
 The dataset used for this project contains information about songs, artists, albums, and user interactions. It includes tables such as:
 
 songs: Contains information about individual songs such as song ID, title, artist ID, duration, and genre.
+
 artists: Contains details about artists including artist ID, name, and location.
+
 albums: Contains information about albums such as album ID, title, release year, and artist ID.
+
 users: Contains information about users such as user ID, name, and location.
+
 playlists: Contains details about playlists created by users including playlist ID, title, and user ID.
+
 playlist_songs: Maps songs to playlists.
+
 songplays: Records instances of users playing songs including timestamp, user ID, song ID, and other relevant details.
+
 
 Conclusion:
 Summarize the key findings from the analysis and discuss any implications or insights gained from the dataset. 
